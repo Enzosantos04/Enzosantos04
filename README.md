@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Enzo Santos! 👋
 
-<!--
-**Enzosantos04/Enzosantos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a student and aspiring software engineer with a focus on improving my skills in PHP, HTML, CSS, JavaScript, TypeScript and React Native. I enjoy working on projects that challenge my design and development skills, while constantly seeking to learn and grow in full-stack development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the technologies and tools I work with:
+
+- **Front-end**: HTML5, CSS, JavaScript, TypeScript, React Native
+- **Back-end**: PHP, MongoDB, PhpMyAdmin
+- **Tools**: Git, GitHub, Expo
+
+## 📚 Education
+
+- **Diploma of Information Technology - Web Development Specialisation** | Mindroom Innovation, Australia | 2023 - 2026
+
+## 📫 How to Reach Me
+
+- 📧 **Email**: enzohfs@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/enzosantos04](https://www.linkedin.com/in/enzosantos04/)
+- 📸 **Instagram**: [@zsantos04](https://www.instagram.com/zsantos04/)
+
