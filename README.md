@@ -7,7 +7,7 @@ I am a student with a focus on improving my skills in PHP, HTML, CSS, JavaScript
 
 Here are some of the technologies and tools I work with:
 
-- **Front-end**: HTML5, CSS, JavaScript, TypeScript, React Native
+- **Front-end**: HTML5, CSS, JavaScript, TypeScript, React Native, Tailwindcss
 - **Back-end**: PHP, MongoDB, PhpMyAdmin
 - **Tools**: Git, GitHub, Expo
 
