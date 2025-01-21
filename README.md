@@ -1,7 +1,7 @@
 # Hello, I'm Enzo Santos! 👋
 
 ## 👨‍💻 About Me
-I am a student with a focus on improving my skills in PHP, HTML, CSS, JavaScript, TypeScript and React Native. I enjoy working on projects that challenge my design and development skills, while constantly seeking to learn and grow in full-stack development.
+I am a student with a focus on improving my skills in PHP, HTML, CSS, JavaScript, TypeScript ReactJS and React Native. I enjoy working on projects that challenge my design and development skills, while constantly seeking to learn and grow in full-stack development.
 
 ## 🚀 Technologies & Tools
 
