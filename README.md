@@ -14,7 +14,7 @@ Here are some of the technologies and tools I work with:
 ## 📚 Education
 
 - **Diploma of Information Technology - Web Development Specialisation** | Mindroom Innovation, Australia | 2023 - 2026
-- **Bachelor of Software Engineering** | Instituto Infnet, Brazil | 2025 - 2029
+- **Bachelor's degree in Software Engineering** | Instituto Infnet, Brazil | 2025 - 2029
 
 ## 📫 How to Reach Me
 
