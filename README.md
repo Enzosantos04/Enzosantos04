@@ -1,4 +1,4 @@
-# Hey there, I'm Enzo Santos! 👋
+# Hey There, I'm Enzo Santos! 👋
 
 ## 👨‍💻 About Me
 I am a Software Engineering student with a strong interest in backend development. I spent two years in Gold Coast, Australia, where I completed an intensive web development course that significantly enhanced my technical skills and fluency in English. I am currently seeking my first professional opportunity in the technology field to apply my knowledge of Java, the Spring framework, databases, and building efficient, user-centric systems
