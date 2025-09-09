@@ -4,7 +4,7 @@
 I am a student focused on strengthening my skills in Java, Spring Boot, JPA/Hibernate, SQL, and RESTful API development. I enjoy building backend systems that solve real-world problems and integrating them with modern frontend technologies. 
 
 ## 🚀 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,css,wasm)](https://skillicons.dev)
 
 ## 📚 Education
 
